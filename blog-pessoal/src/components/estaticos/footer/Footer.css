@@ -1,0 +1,18 @@
+.caixa1 {
+    background-color:#0d5430;
+    height: 120px;
+}
+
+.caixa2 {
+    background-color: #0d3922;
+    height: 60px;
+}
+
+.sociais {
+    font-size: 60px !important;
+    color: white;
+}
+
+.textos {
+    color: white;
+}

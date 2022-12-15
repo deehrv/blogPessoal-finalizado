@@ -1,0 +1,13 @@
+.textos1{
+    font-weight: bold !important;
+ }
+ 
+ .imagem{
+     background-image: url(https://i.pinimg.com/564x/b9/53/16/b953167c1e6b20b4e0dbb2a653e89bda.jpg);
+     background-repeat: no-repeat;
+     width: 80vh;
+     min-height: 85vh;
+     background-size: cover;
+     background-position: center;
+ }
+ 
